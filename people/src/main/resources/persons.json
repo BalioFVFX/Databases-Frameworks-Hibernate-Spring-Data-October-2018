@@ -1,0 +1,9 @@
+{
+  "firstName":"Pesho",
+  "lastName":"Peshov",
+  "address":{
+    "city":"Sofia",
+    "country":"Bulgaria",
+    "street":"Peshovska Street"
+  }
+}
