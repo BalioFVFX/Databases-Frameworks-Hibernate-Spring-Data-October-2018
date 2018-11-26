@@ -1,0 +1,408 @@
+[
+  {
+    "id": 29,
+    "name": "Louann Holzworth",
+    "birthDate": "1960-10-01T12:00:00",
+    "isYoungDriver": false,
+    "sales": []
+  },
+  {
+    "id": 28,
+    "name": "Donnetta Soliz",
+    "birthDate": "1963-10-01T12:00:00",
+    "isYoungDriver": true,
+    "sales": []
+  },
+  {
+    "id": 17,
+    "name": "Rema Revelle",
+    "birthDate": "1970-05-01T12:00:00",
+    "isYoungDriver": true,
+    "sales": [
+      {
+        "car": {
+          "model": "306",
+          "travelledDistance": "21474647"
+        }
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Carri Knapik",
+    "birthDate": "1972-02-02T12:00:00",
+    "isYoungDriver": true,
+    "sales": []
+  },
+  {
+    "id": 27,
+    "name": "Garret Capron",
+    "birthDate": "1975-07-01T12:00:00",
+    "isYoungDriver": false,
+    "sales": []
+  },
+  {
+    "id": 8,
+    "name": "Teddy Hobby",
+    "birthDate": "1975-10-01T12:00:00",
+    "isYoungDriver": true,
+    "sales": [
+      {
+        "car": {
+          "model": "Prius",
+          "travelledDistance": "922335807"
+        }
+      },
+      {
+        "car": {
+          "model": "500 (2007) Abarth 695 Tributo Maserati",
+          "travelledDistance": "214747"
+        }
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Audrea Cardinal",
+    "birthDate": "1976-10-01T12:00:00",
+    "isYoungDriver": false,
+    "sales": [
+      {
+        "car": {
+          "model": "W212",
+          "travelledDistance": "927254775807"
+        }
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Francis Mckim",
+    "birthDate": "1977-10-01T12:00:00",
+    "isYoungDriver": true,
+    "sales": [
+      {
+        "car": {
+          "model": "Pinto",
+          "travelledDistance": "922337203"
+        }
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Brett Brickley",
+    "birthDate": "1980-10-01T12:00:00",
+    "isYoungDriver": true,
+    "sales": [
+      {
+        "car": {
+          "model": "Yaris",
+          "travelledDistance": "21477"
+        }
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Kristian Engberg",
+    "birthDate": "1981-10-03T12:00:00",
+    "isYoungDriver": false,
+    "sales": []
+  },
+  {
+    "id": 26,
+    "name": "Hipolito Lamoreaux",
+    "birthDate": "1982-08-01T12:00:00",
+    "isYoungDriver": true,
+    "sales": [
+      {
+        "car": {
+          "model": "Espace",
+          "travelledDistance": "2147487"
+        }
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Zada Attwood",
+    "birthDate": "1982-10-01T12:00:00",
+    "isYoungDriver": true,
+    "sales": []
+  },
+  {
+    "id": 25,
+    "name": "Sylvie Mcelravy",
+    "birthDate": "1983-10-01T12:00:00",
+    "isYoungDriver": false,
+    "sales": []
+  },
+  {
+    "id": 7,
+    "name": "Rico Peer",
+    "birthDate": "1984-10-01T12:00:00",
+    "isYoungDriver": true,
+    "sales": [
+      {
+        "car": {
+          "model": "Camaro",
+          "travelledDistance": "283647"
+        }
+      },
+      {
+        "car": {
+          "model": "Daytona",
+          "travelledDistance": "213647"
+        }
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Hai Everton",
+    "birthDate": "1985-10-01T12:00:00",
+    "isYoungDriver": true,
+    "sales": [
+      {
+        "car": {
+          "model": "Dokker",
+          "travelledDistance": "2147647"
+        }
+      },
+      {
+        "car": {
+          "model": "A 160 CDI",
+          "travelledDistance": "4775807"
+        }
+      },
+      {
+        "car": {
+          "model": "Haval H6",
+          "travelledDistance": "214747"
+        }
+      },
+      {
+        "car": {
+          "model": "250 GTO",
+          "travelledDistance": "213647"
+        }
+      },
+      {
+        "car": {
+          "model": "370Z",
+          "travelledDistance": "21477"
+        }
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Lino Subia",
+    "birthDate": "1985-12-21T12:00:00",
+    "isYoungDriver": false,
+    "sales": []
+  },
+  {
+    "id": 24,
+    "name": "Jimmy Grossi",
+    "birthDate": "1986-07-01T12:00:00",
+    "isYoungDriver": true,
+    "sales": [
+      {
+        "car": {
+          "model": "Giulietta",
+          "travelledDistance": "2036854775807"
+        }
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Carole Witman",
+    "birthDate": "1987-10-01T12:00:00",
+    "isYoungDriver": false,
+    "sales": []
+  },
+  {
+    "id": 13,
+    "name": "Oren Perlman",
+    "birthDate": "1988-10-01T12:00:00",
+    "isYoungDriver": true,
+    "sales": [
+      {
+        "car": {
+          "model": "Corsa",
+          "travelledDistance": "2"
+        }
+      },
+      {
+        "car": {
+          "model": "Alaskan",
+          "travelledDistance": "92807"
+        }
+      },
+      {
+        "car": {
+          "model": "F430",
+          "travelledDistance": "214647"
+        }
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Marcelle Griego",
+    "birthDate": "1990-10-04T12:00:00",
+    "isYoungDriver": true,
+    "sales": [
+      {
+        "car": {
+          "model": "Fabia",
+          "travelledDistance": "214747"
+        }
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Natalie Poli",
+    "birthDate": "1990-10-04T12:00:00",
+    "isYoungDriver": false,
+    "sales": []
+  },
+  {
+    "id": 19,
+    "name": "Yvonne Mccalla",
+    "birthDate": "1992-03-02T12:00:00",
+    "isYoungDriver": true,
+    "sales": [
+      {
+        "car": {
+          "model": "Astra",
+          "travelledDistance": "922337203685807"
+        }
+      },
+      {
+        "car": {
+          "model": "Duster",
+          "travelledDistance": "21447"
+        }
+      },
+      {
+        "car": {
+          "model": "GT-R",
+          "travelledDistance": "954775807"
+        }
+      },
+      {
+        "car": {
+          "model": "Giulietta",
+          "travelledDistance": "21474847"
+        }
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Ann Mcenaney",
+    "birthDate": "1992-03-02T12:00:00",
+    "isYoungDriver": true,
+    "sales": []
+  },
+  {
+    "id": 21,
+    "name": "Cinthia Lasala",
+    "birthDate": "1992-11-01T12:00:00",
+    "isYoungDriver": true,
+    "sales": []
+  },
+  {
+    "id": 1,
+    "name": "Emmitt Benally",
+    "birthDate": "1993-11-20T12:00:00",
+    "isYoungDriver": true,
+    "sales": []
+  },
+  {
+    "id": 20,
+    "name": "Nisha Markwell",
+    "birthDate": "1994-04-04T12:00:00",
+    "isYoungDriver": false,
+    "sales": [
+      {
+        "car": {
+          "model": "Enzo",
+          "travelledDistance": "2147483647"
+        }
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Faustina Burgher",
+    "birthDate": "1994-06-01T12:00:00",
+    "isYoungDriver": false,
+    "sales": [
+      {
+        "car": {
+          "model": "Ibiza",
+          "travelledDistance": "21474847"
+        }
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Taina Achenbach",
+    "birthDate": "1994-10-01T12:00:00",
+    "isYoungDriver": false,
+    "sales": []
+  },
+  {
+    "id": 9,
+    "name": "Johnette Derryberry",
+    "birthDate": "1995-10-01T12:00:00",
+    "isYoungDriver": true,
+    "sales": [
+      {
+        "car": {
+          "model": "370Z",
+          "travelledDistance": "21477"
+        }
+      },
+      {
+        "car": {
+          "model": "275",
+          "travelledDistance": "2147647"
+        }
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Daniele Zarate",
+    "birthDate": "1995-10-05T12:00:00",
+    "isYoungDriver": false,
+    "sales": [
+      {
+        "car": {
+          "model": "Giulietta",
+          "travelledDistance": "922337203685807"
+        }
+      },
+      {
+        "car": {
+          "model": "GT40",
+          "travelledDistance": "9223377"
+        }
+      },
+      {
+        "car": {
+          "model": "Astra",
+          "travelledDistance": "922337203685807"
+        }
+      }
+    ]
+  }
+]
