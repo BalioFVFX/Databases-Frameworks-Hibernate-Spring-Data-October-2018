@@ -1,0 +1,21 @@
+package mostwanted.util.impl;
+
+import mostwanted.util.XmlParser;
+
+import javax.xml.bind.JAXBContext;
+import javax.xml.bind.JAXBException;
+import javax.xml.bind.Unmarshaller;
+import java.io.File;
+
+public class XmlParserImpl implements XmlParser {
+    @Override
+    public <O> O parseXml(Class<O> objectClass, String filePath) throws JAXBException {
+        JAXBContext jaxbContext = JAXBContext.newInstance(objectClass);
+
+        Unmarshaller unmarshaller = jaxbContext.createUnmarshaller();
+
+        O result = (O)unmarshaller.unmarshal(new File(filePath));
+
+        return result;
+    }
+}
