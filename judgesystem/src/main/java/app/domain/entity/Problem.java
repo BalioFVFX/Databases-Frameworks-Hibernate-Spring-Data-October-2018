@@ -4,12 +4,13 @@ import app.domain.entity.base.BaseEntity;
 
 import javax.persistence.*;
 import java.util.List;
+import java.util.Set;
 
 @Entity(name = "problems")
 public class Problem extends BaseEntity {
     private String name;
     private List<Submission> submissions;
-    private List<User> contestants;
+    private Set<User> contestants;
     private Contest contest;
     private List<UserMaximumResultsForProblem>  userMaximumResultsForProblems;
 
@@ -34,11 +35,11 @@ public class Problem extends BaseEntity {
         this.submissions = submissions;
     }
     @ManyToMany(targetEntity = User.class, mappedBy = "problems")
-    public List<User> getContestants() {
+    public Set<User> getContestants() {
         return contestants;
     }
 
-    public void setContestants(List<User> contestants) {
+    public void setContestants(Set<User> contestants) {
         this.contestants = contestants;
     }
 

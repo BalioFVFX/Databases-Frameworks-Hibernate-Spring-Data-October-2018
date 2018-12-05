@@ -46,10 +46,7 @@ public class Contest extends BaseEntity {
         this.problems = problems;
     }
 
-    @ManyToMany(targetEntity = User.class)
-    @JoinTable(name = "users_participations",
-    joinColumns = @JoinColumn(name = "contest_id", referencedColumnName = "id"),
-    inverseJoinColumns = @JoinColumn(name = "user_id", referencedColumnName = "id"))
+    @ManyToMany(targetEntity = User.class, mappedBy = "contests", fetch = FetchType.EAGER)
     public List<User> getContestants() {
         return contestants;
     }
@@ -66,7 +63,7 @@ public class Contest extends BaseEntity {
         this.maximumResultsForContests = maximumResultsForContests;
     }
 
-    @ManyToMany(targetEntity = Strategy.class)
+    @ManyToMany(targetEntity = Strategy.class, cascade = CascadeType.ALL)
     @JoinTable(name = "contests_strategies",
             joinColumns = @JoinColumn(name = "contest_id", referencedColumnName = "id"),
             inverseJoinColumns = @JoinColumn(name = "strategy_id", referencedColumnName = "id"))
