@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+    <problem>
+        <id>
+            1
+        </id>
+        <username>Office Hunting</username>
+        <contest>
+            <id>3</id>
+        </contest>
+    </problem>
+    <problem>
+        <id>
+            2
+        </id>
+        <username>Softuni Coffee Games</username>
+        <contest>
+            <id>3</id>
+        </contest>
+    </problem>
+    <problem>
+        <id>
+           3
+        </id>
+        <username>Gamebar Lost Treasures</username>
+        <contest>
+            <id>5</id>
+        </contest>
+    </problem>
+    <problem>
+        <id>
+            4
+        </id>
+        <username>Reflection Detection</username>
+        <contest>
+            <id>7</id>
+        </contest>
+    </problem>
+    <problem>
+        <id>
+            5
+        </id>
+        <username>Dependency Emergency</username>
+        <contest>
+            <id>7</id>
+        </contest>
+    </problem>
+    <problem>
+        <id>
+            6
+        </id>
+        <username>by me</username>
+        <contest>
+            <id>1</id>
+        </contest>
+    </problem>
+    <problem>
+        <id>
+            7
+        </id>
+        <username>by me2</username>
+        <contest>
+            <id>1</id>
+        </contest>
+    </problem>
+</problems>
